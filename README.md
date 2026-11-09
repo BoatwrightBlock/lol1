@@ -14,7 +14,7 @@ The **🚀 Luna Executor** is the most trusted free Roblox script executor in 20
 
 </div>
 
-<div align="center">
+
 > **Follow the installation instruction:** Do not miss any step, that could cause troubles.
 
 1. **⬇️ Download** the tool from the button above.
